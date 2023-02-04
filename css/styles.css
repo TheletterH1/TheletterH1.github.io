@@ -202,7 +202,7 @@ hr {
   background: #5029bc;
 }
 
-@media (max-width: 950px) {
+@media (max-width: 850px) {
   .container-contact{
     width: 90%;
     padding: 30px 40px 40px 35px ;
