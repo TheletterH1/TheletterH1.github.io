@@ -152,8 +152,8 @@ hr {
   color: #afafb6;
 }
 .container-contact .content .right-side{
-  width: 70%;
-  margin-left: 75px;
+  width: 75%;
+  margin-left: 65px;
 }
 .content .right-side .topic-text{
   font-size: 23px;
@@ -209,7 +209,7 @@ hr {
     padding: 30px 40px 40px 35px ;
   }
   .container-contact .content .right-side{
-   width: 70%;
+   width: 75%;
    margin-left: 55px;
 }
 }
