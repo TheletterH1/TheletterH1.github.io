@@ -99,7 +99,7 @@ hr {
 
 .container-contact-wrapper{
   min-height: 100vh;
-  width: 95%;
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -152,7 +152,7 @@ hr {
   color: #afafb6;
 }
 .container-contact .content .right-side{
-  width: 75%;
+  width: 70%;
   margin-left: 75px;
 }
 .content .right-side .topic-text{
