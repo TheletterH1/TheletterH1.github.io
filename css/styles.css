@@ -118,6 +118,11 @@ body {
   color: white;
 }
 
+.contact-container{
+  text-align: center;
+  justify-content: center;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
