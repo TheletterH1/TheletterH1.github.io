@@ -302,6 +302,11 @@ svg {
   vertical-align: middle;
 }
 
+contactIcons{
+  width: 30px;
+  height: 30px;
+}
+
 table {
   caption-side: bottom;
   border-collapse: collapse;
