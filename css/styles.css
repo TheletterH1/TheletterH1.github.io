@@ -302,9 +302,19 @@ svg {
   vertical-align: middle;
 }
 
-img .contactIcons{
-  width: 30px;
-  height: 30px;
+.contact-list {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+
+.contact-item {
+  margin-right: 10px;
+}
+
+.contact-icon {
+  width: 60px;
+  height: 60px;
 }
 
 table {
@@ -689,15 +699,7 @@ progress {
   margin-top: var(--bs-gutter-y);
 }
 
-.contactList{
-  display: flex;
-  list-style: none;
-  padding: 0;
-}
 
-.contactListItem{
-  margin-right: 10px;
-}
 
 .col {
   flex: 1 0 0%;
