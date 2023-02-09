@@ -306,7 +306,7 @@ svg {
   display: flex;
   list-style: none;
   padding: 0;
-  max-width: fit-content;
+  max-width: 500px;
   margin: 0 auto;
 }
 
