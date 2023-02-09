@@ -689,13 +689,13 @@ progress {
   margin-top: var(--bs-gutter-y);
 }
 
-ul .contactList{
+.contactList{
   display: flex;
   list-style: none;
   padding: 0;
 }
 
-li .contactListItem{
+.contactListItem{
   margin-right: 10px;
 }
 
